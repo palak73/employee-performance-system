@@ -4,7 +4,7 @@ import "./App.css";
 
 function App() {
 
-  const API = "http://localhost:5000";
+  const API = "https://employee-performance-system-up7o.onrender.com";
 
   const [employee, setEmployee] = useState({
     name: "",
